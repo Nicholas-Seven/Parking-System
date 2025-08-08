@@ -1,2 +1,10 @@
-# Parking-System
-Sistema simples de gerenciamento de estacionamento em Python. Registra entrada e saída de veículos, calcula tempo e valor a pagar, e lista vagas livres e ocupadas. Dados salvos em JSON, ideal para estudos de lógica, datas e persistência de dados.
+# Parking System 
+
+Um sistema simples de controle de vagas de estacionamento feito em **Python**.
+
+## Funcionalidades
+- Registrar entrada de veículos
+- Registrar saída de veículos
+- Calcular valor a pagar (R$5/hora)
+- Listar vagas livres e ocupadas
+- Salvar dados em arquivo JSON
